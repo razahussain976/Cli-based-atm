@@ -1,7 +1,7 @@
 {
   "name": "raza1-atm",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a simple command-line interface (CLI) atm.",
   "main": "main.js",
   "type": "module",
   "bin": "main.js",
